@@ -10,9 +10,9 @@
 
 ## 📸 Screenshots
 <img src="screenshots/Screenshot from 2026-01-15 20-55-25.png" alt="Print desktop">
-<img src="screenshots/celular-1.jpg" alt="Print desktop" height=350>
-<img src="screenshots/celular-2.jpg" alt="Print desktop" height=350>
-<img src="screenshots/celular-3.jpg" alt="Print desktop" height=350>
+<img src="screenshots/celular-1.jpg" alt="Print celular 1" height=350>
+<img src="screenshots/celular-2.jpg" alt="Print celular 2" height=350>
+<img src="screenshots/celular-3.jpg" alt="Print celular 3" height=350>
 
 
 ## 🚀 Sobre o Projeto
