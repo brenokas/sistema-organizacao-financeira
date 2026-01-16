@@ -7,14 +7,6 @@
 >  Aplicação web de organização financeira para ajudar minha mãe com as suas finanças :) 
 
 ---
-
-## 📸 Screenshots
-<img src="screenshots/Screenshot from 2026-01-15 20-55-25.png" alt="Print desktop">
-<img src="screenshots/celular-1.jpg" alt="Print celular 1" height=350>
-<img src="screenshots/celular-2.jpg" alt="Print celular 2" height=350>
-<img src="screenshots/celular-3.jpg" alt="Print celular 3" height=350>
-
-
 ## 🚀 Sobre o Projeto
 
 Este projeto nasceu da necessidade de criar uma ferramenta simples, eficiente e acessível para controle financeiro familiar (especificamente minha mãe). O objetivo foi tirar ela do caderninho e criar uma aplicação web que pudesse ser acessada diretamente pelo celular, principalmente, ou pelo computador
@@ -55,6 +47,14 @@ Este projeto também serviu para que eu pudesse aprender ainda mais sobre prompt
 - **Spring Data JPA**: Persistência de dados e abstração de SQL.
 - **MySQL**: Banco de dados relacional.
 - **Maven**: Gerenciamento de dependências e build.
+
+---
+
+## 📸 Screenshots
+<img src="screenshots/Screenshot from 2026-01-15 20-55-25.png" alt="Print desktop">
+<img src="screenshots/celular-1.jpg" alt="Print celular 1" height=350>
+<img src="screenshots/celular-2.jpg" alt="Print celular 2" height=350>
+<img src="screenshots/celular-3.jpg" alt="Print celular 3" height=350>
 
 ---
 Se você gostou desse projeto, sinta-se à vontade para dar uma ⭐️ no repositório!
